@@ -1,7 +1,7 @@
 import numpy as np
 
 
-def mul(array1: np.ndarray, array2: np.ndarray) -> np.ndarray:
+def array_multiplication(array1: np.ndarray, array2: np.ndarray) -> np.ndarray:
     """
     This function multiply two given arrays of the same size element-by-element
     @param array1: the first array
