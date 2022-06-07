@@ -1,5 +1,5 @@
 import numpy as np
 
 
-vector = np.random.randint(5, 50, 10)
+vector = np.linspace(10, 49, 5)
 print(vector)
