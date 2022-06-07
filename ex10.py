@@ -3,7 +3,7 @@ import numpy as np
 
 def sort_array(array: np.ndarray):
     """
-    this function sort an along the first, last axis of an array
+    this function sort the first, last axis of an array
     param array:the given array
     return: none
     """
